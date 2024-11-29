@@ -24,12 +24,3 @@
  [![Urval’s github stats](https://github-readme-stats.vercel.app/api?username=urvalkheni&theme=radical&card_width=900&card_height=400)](https://github.com/urvalkheni)
 
 </div>
-<br>
-<div align="center">  
-<h2>📈 LeetCode Stats 📈</h2>
-<br>
-  
- ![LeetCode Stats](https://leetcard.jacoblin.cool/rahul0328?theme=radical&font=Actor&ext=heatmap)
-
-</div>
-<br>
