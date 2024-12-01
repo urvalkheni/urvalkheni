@@ -2,17 +2,14 @@
 <br />
 <p align=center>
   <div align=center>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=urvalkheni&theme=radical&card_width=900&card_height=300" />
-      <img src="https://streak-stats.demolab.com?user=urvalkheni&theme=default" />
-    </picture>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=urvalkheni&theme=youtube-dark&card_width=900&card_height=300" alt="GitHub Streak" /></a>
   </div>
 </p>
 <p align=center>
   <br>
   <h2 align="center">⚡ Contributions ⚡</h2>
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urvalkheni&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urvalkheni&theme=x-code&bg_color=070707&hide_border=true" width="100%"/>
    <br>
    
 </p>
@@ -20,6 +17,6 @@
 <h2>📈 Github Stats 📈</h2>
 <br>
   
- [![Urval’s github stats](https://github-readme-stats.vercel.app/api?username=urvalkheni&theme=radical&card_width=900&card_height=400)](https://github.com/urvalkheni)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urvalkheni&theme=radical)](https://github.com/urvalkheni)&nbsp;&nbsp;&nbsp;&nbsp;  [![Urval’s github stats](https://github-readme-stats.vercel.app/api?username=urvalkheni&theme=radical)](https://github.com/urvalkheni)
 
 </div>
