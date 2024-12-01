@@ -3,7 +3,7 @@
 <p align=center>
   <div align=center>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=urvalkheni&theme=dark&card_width=900&card_height=300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=urvalkheni&theme=radical&card_width=900&card_height=300" />
       <img src="https://streak-stats.demolab.com?user=urvalkheni&theme=default" />
     </picture>
   </div>
