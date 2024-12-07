@@ -18,5 +18,7 @@
 <div align="center">  
 <h2>📈 Github Stats 📈</h2>
 <br>
-[![Urval’s github stats](https://github-readme-stats.vercel.app/api?username=urvalkheni&theme=radical&card_width=900&card_height=400)](https://github.com/urvalkheni)
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urvalkheni&theme=radical)](https://github.com/urvalkheni)&nbsp;&nbsp;&nbsp;&nbsp;  [![Urval’s github stats](https://github-readme-stats.vercel.app/api?username=urvalkheni&theme=radical)](https://github.com/urvalkheni)
+
 </div>
