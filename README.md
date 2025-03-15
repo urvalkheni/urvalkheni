@@ -9,7 +9,7 @@
   <br>
   <h2 align="center">⚡ Contributions ⚡</h2>
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urvalkheni&theme=x-code&bg_color=070707&hide_border=true" width="100%"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urvalkheni&theme=hacker-inverted&bg_color=070707&hide_border=true" width="100%"/>
    <br>
    
 </p>
