@@ -24,7 +24,7 @@
     </td>
     <td>
       <!-- Slower dev-themed gif -->
-      <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="500" />
+      <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" />
     </td>
   </tr>
 </table>
