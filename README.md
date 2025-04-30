@@ -10,7 +10,7 @@
   <tr>
     <td>
 
-  <h3>🛠️ About Me:</h3>
+  <h3>🛠️ About Me 🛠️</h3>
 
 - 🎓 I'm a **Computer Science Student**  
 - 💻 Passionate about **Web Development** and **Software Engineering**  
@@ -20,7 +20,6 @@
 
     </td>
     <td>
-      <!-- Slower dev-themed gif -->
       <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" />
     </td>
   </tr>
@@ -35,7 +34,7 @@
 
 <!-- 🛠️ Tech Stack -->
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
+  <h2>🛠️ Tech Stack 🛠️</h2>
 
   <p><strong>Languages:</strong></p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -55,18 +54,25 @@
 
 ---
 
-<!-- 📈 GitHub Stats -->
+<!-- 🔥 GitHub Streak -->
 <div align="center">
-  <h2>📈 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=urvalkheni&show_icons=true&theme=radical&hide_border=true&border_radius=20&title_color=00FFC3&icon_color=00FFC3" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urvalkheni&theme=radical&hide_border=true&border_radius=20&stroke=00FFC3" width="48%" />
+  <h2>🔥 GitHub Streak 🔥</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urvalkheni&theme=radical&hide_border=true&border_radius=20&stroke=00FFC3" width="60%" />
+</div>
+
+---
+
+<!-- 📊 GitHub Stats -->
+<div align="center">
+  <h2>📊 My GitHub Stats 📊</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=urvalkheni&show_icons=true&theme=radical&hide_border=true&border_radius=20&title_color=00FFC3&icon_color=00FFC3" width="60%" />
 </div>
 
 ---
 
 <!-- 🚀 Languages -->
 <div align="center">
-  <h2>🚀 Languages I Work With</h2>
+  <h2>🚀 Languages I Work With 🚀</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvalkheni&layout=compact&theme=radical&hide_border=true&border_radius=20&title_color=00FFC3" width="50%" />
 </div>
 
@@ -74,6 +80,6 @@
 
 <!-- 🌟 Contribution Graph -->
 <div align="center">
-  <h2>🌟 Contribution Graph</h2>
+  <h2>🌟 Contribution Graph 🌟</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urvalkheni&theme=react&hide_border=true&area=true&color=00FFC3" width="90%" />
 </div>
