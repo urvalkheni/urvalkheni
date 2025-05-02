@@ -2,13 +2,18 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
@@ -16,8 +21,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
 
-      - name: Commit and Push SVG
+      - name: Commit and Push SVG to main
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generated Snake Contribution Graph"
+          message: "Update Snake Contribution Graph"
           add: "dist/github-snake.svg"
