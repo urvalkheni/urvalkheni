@@ -83,15 +83,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urvalkheni&theme=react&hide_border=true&area=true&color=00FFC3" width="90%" />
 </div>
 
----
 
-<!-- 🐍 Snake Contribution Graph -->
-<div align="center">
-  <h2>🐍 Contribution Snake Graph 🐍</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urvalkheni/urvalkheni/main/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/urvalkheni/urvalkheni/main/dist/github-snake.svg" />
-    <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/urvalkheni/urvalkheni/main/dist/github-snake.svg" style="max-width: 100%;" />
-  </picture>
-</div>
 
