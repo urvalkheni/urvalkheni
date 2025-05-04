@@ -82,3 +82,7 @@
   <h2>🌟 Contribution Graph 🌟</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urvalkheni&theme=react&hide_border=true&area=true&color=00FFC3" width="90%" />
 </div>
+
+---
+
+![snake gif](https://github.com/urvalkheni/urvalkheni/blob/output/github-contribution-grid-snake.gif)
