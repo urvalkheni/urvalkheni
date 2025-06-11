@@ -9,7 +9,7 @@
 
 <img align="right" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="250" />
 
-- 🎓 First-year **Computer Engineering Student**  
+- 🎓 Second-year **Computer Engineering Student**  
 - 💡 Passionate about **Web Development** & **Software Engineering**  
 - 🌱 Currently learning: `C`, `C++`, `HTML`, `CSS`, `JavaScript`  
 - 🧠 Always curious about **new tools & technologies**  
