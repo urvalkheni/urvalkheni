@@ -11,19 +11,6 @@
 </div>
 
 <div align="center">
-  
-```
- ██████╗██╗   ██╗██████╗ ███████╗██████╗     ███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║
-██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║
-██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║
-╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝ 
-```
-
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=%E2%94%8C%E2%94%80%E2%94%80(%20hacku777%40cyberpunk%20)%E2%94%80%5B~%2Fsecure%5D;%E2%94%94%E2%94%80%E2%94%80%E2%95%BC%20%24%20Initializing%20Cyber%20Arsenal..." alt="Terminal Typing" />
 </div>
 
@@ -187,130 +174,34 @@ hacku777 = CyberOperative()
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🛰️ NS-3 Attack Simulation Lab
-
 ```
-┌─────────────────────────────────────┐
-│  PROJECT: NetworkAttackSim          │
-├─────────────────────────────────────┤
-│  ► DDoS Attack Modeling             │
-│  ► Traffic Analysis Scenarios       │
-│  ► Protocol Vulnerability Tests     │
-│  ► Botnet Simulation Framework      │
-│                                     │
-│  LANG: C++ | Python | NS-3          │
-│  STATUS: ████████░░ 80%             │
-└─────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              🚧 UNDER CONSTRUCTION 🚧                         ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║                        🔥 EPIC PROJECTS COMING SOON 🔥                        ║
+║                                                                               ║
+║  ◉ NS-3 Network Attack Simulation Framework                                   ║
+║  ◉ Advanced Packet Analysis Tool                                              ║
+║  ◉ OSINT Automation Platform                                                  ║
+║  ◉ Cryptographic Security Suite                                               ║
+║                                                                               ║
+║                    STATUS: DEVELOPMENT IN PROGRESS ▓▓▓▓░░░░░░ 40%            ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
-[![Repo](https://img.shields.io/badge/VIEW%20REPO-b600ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urvalkheni)
 
-</td>
-<td width="50%">
-
-### 📡 Packet Sniffer Tool
-
-```
-┌─────────────────────────────────────┐
-│  PROJECT: ShadowSniffer             │
-├─────────────────────────────────────┤
-│  ► Real-time Packet Capture         │
-│  ► Protocol Dissection              │
-│  ► Traffic Visualization            │
-│  ► Anomaly Detection                │
-│                                     │
-│  LANG: Python | Scapy               │
-│  STATUS: █████████░ 90%             │
-└─────────────────────────────────────┘
-```
-[![Repo](https://img.shields.io/badge/VIEW%20REPO-00f6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urvalkheni)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 OSINT Automation Framework
-
-```
-┌─────────────────────────────────────┐
-│  PROJECT: ReconMatrix               │
-├─────────────────────────────────────┤
-│  ► Automated Reconnaissance         │
-│  ► Social Media Intelligence        │
-│  ► Domain Enumeration               │
-│  ► Data Correlation Engine          │
-│                                     │
-│  LANG: Python | APIs                │
-│  STATUS: ██████░░░░ 60%             │
-└─────────────────────────────────────┘
-```
-[![Repo](https://img.shields.io/badge/VIEW%20REPO-b600ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urvalkheni)
-
-</td>
-<td width="50%">
-
-### 🔐 CryptoVault
-
-```
-┌─────────────────────────────────────┐
-│  PROJECT: CryptoVault               │
-├─────────────────────────────────────┤
-│  ► AES/RSA Encryption Tools         │
-│  ► Hash Generator/Cracker           │
-│  ► Steganography Module             │
-│  ► Secure Communication             │
-│                                     │
-│  LANG: Python | C                   │
-│  STATUS: ███████░░░ 70%             │
-└─────────────────────────────────────┘
-```
-[![Repo](https://img.shields.io/badge/VIEW%20REPO-00f6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urvalkheni)
-
-</td>
-</tr>
-</table>
+**🎯 Watch this space - Revolutionary cybersecurity tools incoming!**
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                           🏆 CTF & ACHIEVEMENTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;CTF OPERATIONS // ACHIEVEMENTS
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                          🏴 CAPTURE THE FLAG RECORDS 🏴                       ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║   ┌─────────────────┬────────────────┬───────────────┬──────────────────┐   ║
-║   │   PLATFORM      │    RANKING     │    POINTS     │     STATUS       │   ║
-║   ├─────────────────┼────────────────┼───────────────┼──────────────────┤   ║
-║   │  HackTheBox     │   Top 15%      │    ████░░     │   ACTIVE         │   ║
-║   │  TryHackMe      │   Top 10%      │    █████░     │   ACTIVE         │   ║
-║   │  PicoCTF        │   Participant  │    ███░░░     │   TRAINING       │   ║
-║   │  CTFtime        │   Rising       │    ██░░░░     │   COMPETING      │   ║
-║   └─────────────────┴────────────────┴───────────────┴──────────────────┘   ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-### 🎖️ BADGES & CERTIFICATIONS
-
-<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-In%20Progress-b600ff?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/OSCP-Target%202025-00f6ff?style=for-the-badge&labelColor=0D0D0D"/>
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -350,40 +241,6 @@ hacku777 = CyberOperative()
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                           🗺️ OPERATION ROADMAP                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> &nbsp;OPERATION ROADMAP // 2025
-
-<div align="center">
-
-```
-                           ╔═══════════════════════════════════════╗
-                           ║       2025 CYBER OPERATIONS PLAN      ║
-                           ╚═══════════════════════════════════════╝
-
-     Q1 2025                Q2 2025                Q3 2025                Q4 2025
-        │                      │                      │                      │
-        ▼                      ▼                      ▼                      ▼
-   ┌─────────┐            ┌─────────┐            ┌─────────┐            ┌─────────┐
-   │ NS-3    │            │ OSINT   │            │ CEH     │            │ OSCP    │
-   │ MASTERY │───────────▶│ TOOLS   │───────────▶│ CERT    │───────────▶│ PREP    │
-   │         │            │ RELEASE │            │         │            │         │
-   └─────────┘            └─────────┘            └─────────┘            └─────────┘
-        │                      │                      │                      │
-        ▼                      ▼                      ▼                      ▼
-   ┌─────────┐            ┌─────────┐            ┌─────────┐            ┌─────────┐
-   │PACKET   │            │ BUG     │            │ CTF     │            │ RED     │
-   │SNIFFER  │            │ BOUNTY  │            │ COMPETE │            │ TEAM    │
-   │ v2.0    │            │ HUNTING │            │ TOP 5%  │            │ TRAINING│
-   └─────────┘            └─────────┘            └─────────┘            └─────────┘
-
-                    ════════════════════════════════════════════
-                           CURRENT PROGRESS: ████████░░ 75%
-                    ════════════════════════════════════════════
-```
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                           🐍 CONTRIBUTION SNAKE                            -->
@@ -434,18 +291,18 @@ hacku777 = CyberOperative()
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                               ║
-║    ░██████╗██╗░░██╗░█████╗░██████╗░░█████╗░░██╗░░░░░░░██╗    ░█████╗░██╗░░░██╗████████╗      ║
-║    ██╔════╝██║░░██║██╔══██╗██╔══██╗██╔══██╗░██║░░██╗░░██║    ██╔══██╗██║░░░██║╚══██╔══╝      ║
-║    ╚█████╗░███████║███████║██║░░██║██║░░██║░╚██╗████╗██╔╝    ██║░░██║██║░░░██║░░░██║░░░      ║
-║    ░╚═══██╗██╔══██║██╔══██║██║░░██║██║░░██║░░████╔═████║░    ██║░░██║██║░░░██║░░░██║░░░      ║
-║    ██████╔╝██║░░██║██║░░██║██████╔╝╚█████╔╝░░╚██╔╝░╚██╔╝░    ╚█████╔╝╚██████╔╝░░░██║░░░      ║
-║    ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚════╝░░░░╚═╝░░░╚═╝░░    ░╚════╝░░╚═════╝░░░░╚═╝░░░      ║
+║                    ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗                            ║
+║                    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗                           ║
+║                    ███████║███████║██║     █████╔╝ █████╗  ██║  ██║                           ║
+║                    ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██║  ██║                           ║
+║                    ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██████╔╝                           ║
+║                    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝                            ║
 ║                                                                                               ║
 ║                          "Breach the impossible. Secure the future."                          ║
 ║                                                                                               ║
 ║═══════════════════════════════════════════════════════════════════════════════════════════════║
 ║                                                                                               ║
-║      [00f6ff]█████[/]  CYBER HACKU777  [b600ff]█████[/]  ©2025  [00f6ff]█████[/]  URVAL KHENI   ║
+║                    █████  CYBER HACKU777  █████  ©2025  █████  URVAL KHENI                    ║
 ║                                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
