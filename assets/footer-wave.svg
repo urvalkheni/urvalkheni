@@ -1,0 +1,23 @@
+<!-- footer-wave.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="fw" x1="0" x2="1">
+      <stop offset="0" stop-color="#0d0d0d"/>
+      <stop offset="0.2" stop-color="#b600ff"/>
+      <stop offset="0.5" stop-color="#00f6ff"/>
+      <stop offset="0.8" stop-color="#b600ff"/>
+      <stop offset="1" stop-color="#0d0d0d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0d0d0d"/>
+
+  <path d="M0,40 C200,100 400,0 600,40 C800,80 1000,10 1200,40 L1200,120 L0,120 Z"
+        fill="url(#fw)" opacity="0.95">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,40 C200,100 400,0 600,40 C800,80 1000,10 1200,40 L1200,120 L0,120 Z;
+        M0,30 C200,40 400,80 600,30 C800,-20 1000,70 1200,30 L1200,120 L0,120 Z;
+        M0,40 C200,100 400,0 600,40 C800,80 1000,10 1200,40 L1200,120 L0,120 Z"/>
+  </path>
+</svg>
