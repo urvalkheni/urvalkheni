@@ -92,28 +92,6 @@ hacku777 = CyberOperative()
 ```
 
 </td>
-<td width="50%" valign="top">
-
-### 🎯 ACTIVE MISSIONS
-
-```
-╔═══════════════════════════════════════╗
-║  MISSION LOG // CLASSIFIED            ║
-╠═══════════════════════════════════════╣
-║                                       ║
-║  ◉ NS-3 Network Attack Simulations    ║
-║  ◉ Custom Packet Sniffer Development  ║
-║  ◉ OSINT Automation Framework         ║
-║  ◉ Zero-Day Vulnerability Research    ║
-║  ◉ CTF Competition Training           ║
-║  ◉ Penetration Testing Labs           ║
-║                                       ║
-╠═══════════════════════════════════════╣
-║  STATUS: IN PROGRESS ▓▓▓▓▓▓▓░░░ 70%  ║
-╚═══════════════════════════════════════╝
-```
-
-</td>
 </tr>
 </table>
 
@@ -173,23 +151,6 @@ hacku777 = CyberOperative()
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;PROJECT SHOWCASE // CYBER OPS
 
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                              🚧 UNDER CONSTRUCTION 🚧                         ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║                                                                               ║
-║                        🔥 EPIC PROJECTS COMING SOON 🔥                        ║
-║                                                                               ║
-║  ◉ NS-3 Network Attack Simulation Framework                                   ║
-║  ◉ Advanced Packet Analysis Tool                                              ║
-║  ◉ OSINT Automation Platform                                                  ║
-║  ◉ Cryptographic Security Suite                                               ║
-║                                                                               ║
-║                    STATUS: DEVELOPMENT IN PROGRESS ▓▓▓▓░░░░░░ 40%            ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
 
 **🎯 Watch this space - Revolutionary cybersecurity tools incoming!**
 
