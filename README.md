@@ -15,7 +15,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/urvalkheni?style=for-the-badge&logo=github&color=181717&labelColor=000000)](https://github.com/urvalkheni)
 [![Profile Views](https://komarev.com/ghpvc/?username=urvalkheni&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/urvalkheni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/urvalkheni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/urval-kheni)
 
 </div>
 
@@ -149,24 +149,9 @@
 
 ---
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urvalkheni@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/urvalkheni)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/urvalkheni)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urvalkheni)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,12,20&section=footer" width="100%"/>
   
 ### ⭐️ "Secure the network. Simulate the future. Code the solution." ⭐️
-
-<sub>Made with 💙 by Urval Kheni</sub>
 
 </div>
