@@ -52,7 +52,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Cybersecurity" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBkZDJ6NWR2M2VyZjF6YWQ2azlwbHU5d3FkcnRlZWh4ZW5yNjZheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif">
 
 - 🎓 **B.Tech** in Computer Engineering
 - 🔐 **Cybersecurity** Researcher & Penetration Tester
