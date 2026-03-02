@@ -1,19 +1,9 @@
 # 👨‍💻 Urval Kheni  
-### Networking & Systems Developer
+### Networking Security & Systems Developer  
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=1F6FEB&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Networking+%7C+Protocol+Simulation;NS-3+Contributor+in+Progress;Security-Focused+Systems+Developer;Focused+on+Reproducible+Network+Research" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/urval-kheni" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://gitlab.com/urvalkheni" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="28" />
-</a>
 
 </div>
 
@@ -21,26 +11,25 @@
 
 ## About Me
 
-I am a Computer Engineering student with a strong interest in **network systems, protocol behavior, and network security**.
+I am a Computer Engineering student with a strong focus on **network systems, protocol behavior, and network security**.
 
-My work focuses on understanding how Internet protocols behave in real and simulated environments, particularly through structured experimentation and clean systems-level implementation.
+My work involves analyzing Internet protocol behavior in both real-world and simulated environments, with emphasis on structured experimentation, correctness, and clean systems-level implementation.
 
-I am especially interested in:
+I am particularly interested in:
 
 - Network protocol simulation and validation  
-- Security-focused systems analysis  
-- Writing maintainable C++ for research-driven environments  
-- Contributing to open-source networking projects  
+- Security-oriented systems evaluation  
+- Writing maintainable, well-tested C++ code   
 
 ---
 
 ## Technical Stack
 
-**Languages:**  
+**Languages**  
 Python · C++ · C · Java · Bash · JavaScript  
 
-**Tools & Environment:**  
-Linux · Git · GitLab · Wireshark · Docker · VS Code · NS-3 
+**Tools & Environment**  
+Linux · Git · GitLab · Wireshark · VS Code · Packet Inspection · NS-3  
 
 ---
 
